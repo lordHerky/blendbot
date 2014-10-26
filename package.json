@@ -21,9 +21,17 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
+    "cheerio": "^0.17.0",
+    "htmlparser": "^1.7.7",
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-slack": "^2.2.0"
+    "hubot-slack": "^2.2.0",
+    "moment": "^2.8.3",
+    "request": "^2.46.0",
+    "scraper": "0.0.9",
+    "soupselect": "^0.2.0",
+    "underscore": "^1.7.0",
+    "xml2js": "^0.4.4"
   },
   "engines": {
     "node": ">= 0.8.x",
